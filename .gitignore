@@ -1,0 +1,27 @@
+# 1. Secrets & Credentials
+.env
+gcp-key.json
+secrets.toml
+
+# 2. Virtual Environments
+.venv/
+venv/
+env/
+
+# 3. Python Cache & Build Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+
+# 4. Editor & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 5. Logs and Local Databases
+*.log
+*.sqlite3
