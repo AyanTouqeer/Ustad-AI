@@ -58,7 +58,7 @@ Mid-hackathon, a sudden platform update to the Antigravity IDE introduced workfl
 ## 🌍 Live Demo & Links
 
 * **Live Web App:** https://ustad-ai-750612016119.asia-south2.run.app 
-* **Pitch & Demo Video:** [Insert your YouTube/Drive Video Link here]
+* **Pitch & Demo Video:** https://drive.google.com/file/d/1T_D8hnhFGUI5XAxmZMDTO27-TiN-tkg0/view?usp=sharing 
 
 ---
 
